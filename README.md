@@ -1,6 +1,6 @@
 # Personal Website
 
-A simple, static personal website (plain HTML/CSS/JS, no build step) deployed to GitHub Pages via GitHub Actions.
+A very simple, static personal website (plain HTML/CSS/JS, no build step) deployed to GitHub Pages via GitHub Actions.
 
 ## Editing
 
